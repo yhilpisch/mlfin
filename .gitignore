@@ -1,6 +1,11 @@
 # Specifics
 dx/
 *.swp
+*.key
+*.pdf
+*.png
+*.jpeg
+*.jpg
 _build/
 *.cfg
 .DS_Store
