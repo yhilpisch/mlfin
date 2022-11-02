@@ -1,28 +1,33 @@
 
-<img src="https://certificate.tpq.io/txstate_logo.png" width=35% align=right><br>
+<img src="https://certificate.tpq.io/txstate_logo.jpeg" width=35% align=right><br>
 
 # Machine Learning for Finance
 
 **Workshop at Texas State University**
 
-04. & 05. November 2022
+McCoy College of Business, 04. & 05. November 2022
 
 &copy; Dr. Yves J. Hilpisch | The Python Quants GmbH
 
-## Agenda
+## Slides & Agenda
+
+You find the slides under https://certificate.tpq.io/mlfin.pdf.
 
 The tentative agenda for the workshop is as follows:
 
-* **DAY 1**
- * Data Science Packages
- * Basic Finance Concepts
- * Basic Statistical Methods
- * Types of Machine Learning
-* **DAY 2**
- * Finance Applications
- * ML as a Process
- * Deep Learning
- * Reinforcement Learning
+**DAY 1**
+
+* Data Science Packages
+* Basic Finance Concepts
+* Basic Statistical Methods
+* Types of Machine Learning
+
+**DAY 2**
+
+* Finance Applications
+* ML as a Process
+* Deep Learning
+* Reinforcement Learning
 
 ## Community
 
