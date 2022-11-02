@@ -53,4 +53,6 @@ Several parts of the code presented in this Workshop are based on the book **Art
 
 ## Get in Touch
 
-<a href="http://tpq.io" target="_blank">http://tpq.io</a> | <a href="http://twitter.com/dyjh" target="_blank">@dyjh</a> | <a href="mailto:training@tpq.io">qd@tpq.io</a>
+<a href="http://tpq.io" target="_blank">http://tpq.io</a> | <a
+href="http://twitter.com/dyjh" target="_blank">@dyjh</a> | <a
+href="mailto:ai@tpq.io">ai@tpq.io</a>
