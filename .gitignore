@@ -11,7 +11,8 @@ _build/
 .DS_Store
 source/
 trading*
-_store
+_store/
+ref/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
