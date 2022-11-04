@@ -35,13 +35,16 @@ Join the community on **Discord** at https://discord.gg/uJPtp9Awaj.
 
 Follow us on **Twitter** at https://twitter.com/dyjh.
 
-Subscribe to our **YouTube** channel at https://youtube.com/@dyjh
+Subscribe to our **YouTube** channel at https://youtube.com/@dyjh.
 
-The repository is authored and maintained by The Python Quants GmbH. &copy; Dr. Yves J. Hilpisch. MIT License.
+The repository is authored and maintained by The Python Quants GmbH.
+
+&copy; Dr. Yves J. Hilpisch. MIT License.
 
 ## Google Colab
 
-You should be able to execute the Jupyter Notebooks with Google Colab via
+You should be able to execute the Jupyter Notebooks with Google Colab at
+
 https://colab.research.google.com/github/yhilpisch/mlfin.
 
 ## Artificial Intelligence in Finance
